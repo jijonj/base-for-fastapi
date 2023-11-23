@@ -20,7 +20,9 @@ site_build
 venv
 docs.zip
 archive.zip
-
+lib/
+bin/
+pyenv.cfg
 # vim temporary files
 *~
 .*.sw?
